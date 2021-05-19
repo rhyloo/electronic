@@ -4,6 +4,8 @@
 This filter is an approximation of low pass Chebyshev's filters type I, I made it for resolve one homework that I had.
 
 I use two scripts more for print on screen the transfer functions correctly, I downloaded them from [[https://es.mathworks.com/matlabcentral/fileexchange/74824-printout-transfer-function][Bradley Sutton]] and modified two variables for print double format.
+
 ** Butterworth filters
 *** Low pass
     ...Developing...
+	
